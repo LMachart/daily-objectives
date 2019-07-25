@@ -13,4 +13,4 @@
   * [ X  ] Installation éditeur de code (Vim + VS Code)
   * [ X ] Installation navigateur (Developper Edition)
   * [ X ] Création et configuration Mail pro 
-  * [ X ] Création et configuration Twitter pro 
+  * [ X ] Création et configuration Twitter pro. 
