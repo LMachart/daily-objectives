@@ -14,7 +14,7 @@
     * [ X ] Tableaux
     * [ X ] Liens
   * [  ] Faire le parcours "how-to-markdown" (Nodeschool.io)
-* [  ] Comprendre l'intérêt des raccourcis clavier
+* [ X ] Comprendre l'intérêt des raccourcis clavier
 * [  ] Découverte des raccourcis clavier Linux : 
   * [  ] Navigateur (fenêtres, onglets, navigation, etc …)
   * [  ] Terminal (fenêtres, onglets, commandes)
