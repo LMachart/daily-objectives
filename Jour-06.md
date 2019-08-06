@@ -13,10 +13,10 @@
     * [ X ] Citations
     * [ X ] Tableaux
     * [ X ] Liens
-  * [  ] Faire le parcours "how-to-markdown" (Nodeschool.io)
+  * [ X ] Faire le parcours "how-to-markdown" (Nodeschool.io)
 * [ X ] Comprendre l'intérêt des raccourcis clavier
-* [  ] Découverte des raccourcis clavier Linux : 
-  * [  ] Navigateur (fenêtres, onglets, navigation, etc …)
-  * [  ] Terminal (fenêtres, onglets, commandes)
+* [ X ] Découverte des raccourcis clavier Linux : 
+  * [ X ] Navigateur (fenêtres, onglets, navigation, etc …)
+  * [ X ] Terminal (fenêtres, onglets, commandes)
   * [ X ] Découverte et installation de Albert (Linux) / Alfred (Mac)
 * [ X ] Rédaction en Markdown du contenu du travail en groupe (wiki, repos)
