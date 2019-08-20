@@ -3,7 +3,7 @@
 ## Mardi 06/08/2019
 
 * [  ] Javascript :
-  * [ X ] Comprendre les conversion de types en Javascript (http://javascript.info/type-conversions)
+  * [  ] Comprendre les conversion de types en Javascript (http://javascript.info/type-conversions)
     * [  ] Faire l'exercice / Analyser ses erreurs 
 
 * [ X ] Algo : 

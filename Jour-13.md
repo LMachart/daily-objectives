@@ -3,13 +3,13 @@
 ## Mercredi 07/08/2019
 
 
-* [ ] Javascript :
-  * [ ] Comprendre le fonctionnement des opérateurs en Javascript (https://javascript.info/operators#operator-precedence)
-    * [ ] Comprendre la différence entre unaire, binaire et opérande
-    * [ ] Comprendre la concaténation
-    * [ ] Comprendre la précédence des opérateurs
-    * [ ] Comprendre le modulo
-    * [ ] Comprendre l'incrémentation, la différence entre préfix et postfix
+* [ X ] Javascript :
+  * [ X ] Comprendre le fonctionnement des opérateurs en Javascript (https://javascript.info/operators#operator-precedence)
+    * [ X ] Comprendre la différence entre unaire, binaire et opérande
+    * [ X ] Comprendre la concaténation
+    * [ X ] Comprendre la précédence des opérateurs
+    * [ X ] Comprendre le modulo
+    * [ X ] Comprendre l'incrémentation, la différence entre préfix et postfix
 
 * [ X ] Algo : 
   * [ X ] Découvrir le tri fusion (Merge Sort)
