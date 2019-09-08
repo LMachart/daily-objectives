@@ -11,7 +11,7 @@
   * [ X ] Ecrire en pseudocode le Bubble Sort (création pure)
   * [  ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
-* [  ] CSS : 
+* [ X ] CSS : 
   * [ X ] Découvrir l'architecture `7-1` :
-    * [  ] Comprendre l'intérêt de cette architecture
-    * [  ] Construire son propre boilerplate SASS 7-1
+    * [ X ] Comprendre l'intérêt de cette architecture
+    * [ X ] Construire son propre boilerplate SASS 7-1

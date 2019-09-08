@@ -17,6 +17,6 @@
   * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 >>>>>>> 1639b39fa023c58ed42858cff07e92539a3626d2
 
-* [  ] CSS : 
-  * [  ] Découvrir l'approche `BEM` en CSS (https://en.bem.info/methodology/quick-start/)
-    * [  ] Comprendre l'intérêt de cette convention
+* [ X ] CSS : 
+  * [ X ] Découvrir l'approche `BEM` en CSS (https://en.bem.info/methodology/quick-start/)
+    * [ X ] Comprendre l'intérêt de cette convention
