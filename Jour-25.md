@@ -3,31 +3,31 @@
 ## Lundi 16/09/2019
 
 
-* [  ] Javascript :
+* [ X ] Javascript :
   * [ X ] Découvrir le `DOM` :
 
     * [ X ] Comprendre la différence entre `DOM`, `CSSOM` et `BOM` (https://javascript.info/browser-environment)
 
     * [ X ] Comprendre la différence entre les 3 types de `nodes` dans le `DOM` (https://javascript.info/dom-nodes)
 
-    * [  ] Comprendre la navigation du DOM (https://javascript.info/dom-navigation) :
-      * [  ] Comprendre la différence entre les `Child Nodes` et les `Descendants`
-      * [  ] Comprendre la différence entre une `collection` et un `array`
-      * [  ] Comprendre la différence entre un `element` et un `node`
-      * [  ] Bien comprendre à quoi correspond : 
-        * [  ] `parentElement`
-        * [  ] `children`
-        * [  ] `firstElementChild`
-        * [  ] `lastElementChild`
-        * [  ] `previousElementSibling`
-        * [  ] `nextElementSibling`
-        * [  ] `parentNode`
-        * [  ] `childNodes`
-        * [  ] `firstChild`
-        * [  ] `lastChild`
-        * [  ] `previousSibling`
-        * [  ] `nextSibling`
-    * [  ] Faire les exercices
+    * [ X ] Comprendre la navigation du DOM (https://javascript.info/dom-navigation) :
+      * [ X ] Comprendre la différence entre les `Child Nodes` et les `Descendants`
+      * [ X ] Comprendre la différence entre une `collection` et un `array`
+      * [ X ] Comprendre la différence entre un `element` et un `node`
+      * [ X ] Bien comprendre à quoi correspond : 
+        * [ X ] `parentElement`
+        * [ X ] `children`
+        * [ X ] `firstElementChild`
+        * [ X ] `lastElementChild`
+        * [ X ] `previousElementSibling`
+        * [ X ] `nextElementSibling`
+        * [ X ] `parentNode`
+        * [ X ] `childNodes`
+        * [ X ] `firstChild`
+        * [ X ] `lastChild`
+        * [ X ] `previousSibling`
+        * [ X ] `nextSibling`
+    * [ X ] Faire les exercices
 
 
 

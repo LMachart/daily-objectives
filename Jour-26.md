@@ -5,27 +5,27 @@
 
 * [ ] Javascript :
 
-  * [ ] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
+  * [ X ] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
     * Savoir exactement ce que va cibler : 
-      * [ ] `querySelector`
-      * [ ] `querySelectorAll`
-      * [ ] `getElementById`
-      * [ ] `getElementsByName`
-      * [ ] `getElementsByTagName`
-      * [ ] `getElementsByClassName`
-      * [ ] `elem.matches(css)`
-      * [ ] `elem.closest(css)`
-    * [ ] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
+      * [ X ] `querySelector`
+      * [ X ] `querySelectorAll`
+      * [ X ] `getElementById`
+      * [ X ] `getElementsByName`
+      * [ X ] `getElementsByTagName`
+      * [ X ] `getElementsByClassName`
+      * [ X ] `elem.matches(css)`
+      * [ X ] `elem.closest(css)`
+    * [ X ] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
 
-  * [ ] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
-    * [ ] Découvrir la différence entre les `nodeType` (1,3 et 9)
-    * [ ] Comprendre comment fonctionne `innerHTML` (quels sont les "dangers", ses limitations)
-    * [ ] Comprendre comment fonctionne `outerHTML` (quelle est sa particularité)
+  * [ X ] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
+    * [ X ] Découvrir la différence entre les `nodeType` (1,3 et 9)
+    * [ X ] Comprendre comment fonctionne `innerHTML` (quels sont les "dangers", ses limitations)
+    * [ X ] Comprendre comment fonctionne `outerHTML` (quelle est sa particularité)
     * Comprendre comment fonctionne `nodeValue` et `data` (quelle est leur utilité)
-    * [ ] Comprendre comment fonctionne `textContent` (quel est son point fort)
-    * [ ] Comprendre comment fonctionne `hidden`
+    * [ X ] Comprendre comment fonctionne `textContent` (quel est son point fort)
+    * [ X ] Comprendre comment fonctionne `hidden`
 
-  * [ ] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
+  * [ X ] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
     * Savoir comment : 
       * [ ] vérifier l'existence d'un `attribute`
       * [ ] récupérer la valeur d'un `attribute`
