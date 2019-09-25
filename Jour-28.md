@@ -10,9 +10,9 @@
   
 
 
-* [ ] DOM : 
+* [ X ] DOM : 
 
   * [ X ] Comprendre le `Bubbling` et le `Capturing` (https://javascript.info/bubbling-and-capturing)
 
   * [ X ] Comprendre la délégation d'évènements (https://javascript.info/event-delegation)
-    * [ ] Faire les exercices
+    * [ X ] Faire les exercices
