@@ -11,13 +11,13 @@
 
 ### Frameworks JS : 
 
-  * [  ] Découvrir ce que sont les frameworks et leur utilité (recherche personnelle)
+  * [ X ] Découvrir ce que sont les frameworks et leur utilité (recherche personnelle)
 
-  * [  ] Comprendre l'utilité des frameworks JS frontend (recherche en groupe)
+  * [ X ] Comprendre l'utilité des frameworks JS frontend (recherche en groupe)
 
-  * [  ] Comprendre la différence entre un framework et une librairie
+  * [ X ] Comprendre la différence entre un framework et une librairie
 
-  * [  ] Découvrir Vue JS (https://fr.vuejs.org/v2/guide/)
+  * [ X ] Découvrir Vue JS (https://fr.vuejs.org/v2/guide/)
 
-  * [  ] Installer `Vue CLI` (https://cli.vuejs.org/)
+  * [ X ] Installer `Vue CLI` (https://cli.vuejs.org/)
     * [  ] Créer ses premiers projets (répétitions créations / suppression, au moins une dizaine de fois)
