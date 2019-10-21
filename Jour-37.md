@@ -4,16 +4,16 @@
 
 ### Javascript : 
 
-* [ ] Approfondir sa compréhension des fonctions en étudiant les `closures` (https://javascript.info/closure)
+* [ X ] Approfondir sa compréhension des fonctions en étudiant les `closures` (https://javascript.info/closure)
   * [ ] Faire les exercices
 
 
 ### Backend : 
 
 * [ X ] Comprendre ce qu'est Node.js
-* [  ] Préparation de l'environnement de développement backend (installations, mises à jour)
+* [ X ] Préparation de l'environnement de développement backend (installations, mises à jour)
 * [ X ] Comprendre la différence entre le développement synchrone et asynchrone
-* [  ] Comprendre ce qu'est le `REPL` et découvrir son fonctionnement de base
+* [ X ] Comprendre ce qu'est le `REPL` et découvrir son fonctionnement de base
 
 
 ### Frappe au clavier :
