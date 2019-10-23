@@ -4,14 +4,14 @@
 
 ### Javascript : 
 
-  * [ ] Comprendre le fonctionnement des `callbacks` (https://javascript.info/callbacks)
-  * [ ] Comprendre le fonctionnement des `promises` (https://javascript.info/promise-basics)
-  * [ ] Savoir utiliser le `promises chaining` (https://javascript.info/promise-chaining)
+  * [ X ] Comprendre le fonctionnement des `callbacks` (https://javascript.info/callbacks)
+  * [ X ] Comprendre le fonctionnement des `promises` (https://javascript.info/promise-basics)
+  * [ X ] Savoir utiliser le `promises chaining` (https://javascript.info/promise-chaining)
 
 
 ### SQL :
 
-* [ ] Savoir ce qu'est une base de données (https://youtu.be/XQ_6G0iCyMQ)
+* [ X ] Savoir ce qu'est une base de données (https://youtu.be/XQ_6G0iCyMQ)
 * [ ] Savoir ce qu'est `SQL` et une base de données relationnelle (https://youtu.be/MZdO1UbTG4U)
 * [ ] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
 * [ ] Installation de `PostgreSQL`
@@ -24,6 +24,6 @@
 
 ### Node.JS : 
 
-* Découverte d'`Express.js`
-* Installation d'`Express.js`
-* Création d'un hello world personnalisé avec `Express.js` (plusieurs fois)
+* [ ] Découverte d'`Express.js`
+* [ ] Installation d'`Express.js`
+* [ ] Création d'un hello world personnalisé avec `Express.js` (plusieurs fois)
