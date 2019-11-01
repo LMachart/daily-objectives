@@ -5,9 +5,9 @@
 
 ### Javascript : 
 
-* [ ] Savoir gérer les erreurs avec les `promises` (https://javascript.info/promise-error-handling)
-* [ ] Passer en revue la `promise API` (https://javascript.info/promise-api)
-* [ ] Comprendre le fonctionnement de `async/await` (https://javascript.info/async-await)
+* [ x ] Savoir gérer les erreurs avec les `promises` (https://javascript.info/promise-error-handling)
+* [ x ] Passer en revue la `promise API` (https://javascript.info/promise-api)
+* [ x ] Comprendre le fonctionnement de `async/await` (https://javascript.info/async-await)
 
 ### SQL :
 

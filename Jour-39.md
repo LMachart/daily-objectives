@@ -12,8 +12,8 @@
 ### SQL :
 
 * [ X ] Savoir ce qu'est une base de données (https://youtu.be/XQ_6G0iCyMQ)
-* [ ] Savoir ce qu'est `SQL` et une base de données relationnelle (https://youtu.be/MZdO1UbTG4U)
-* [ ] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
+* [ X ] Savoir ce qu'est `SQL` et une base de données relationnelle (https://youtu.be/MZdO1UbTG4U)
+* [ X ] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
 * [ ] Installation de `PostgreSQL`
 * [ ] Découvrir le fonctionnement du `REPL` de `PostgreSQL`
 * [ ] Création/suppression de comptes utilisateurs
