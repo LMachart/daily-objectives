@@ -19,7 +19,7 @@
 * [ X ] Création/suppression de comptes utilisateurs
 * [ X ] Création de bases de données (https://youtu.be/DvDOU-v822w)
 * [ X ] Suppression de bases de données (https://youtu.be/IWkNbJhn2TM)
-* [ ] Découvrir les rôles dans `PostgreSQL` (https://docs.postgresql.fr/12/user-manag.html)
+* [ X ] Découvrir les rôles dans `PostgreSQL` (https://docs.postgresql.fr/12/user-manag.html)
 
 
 ### Node.JS : 

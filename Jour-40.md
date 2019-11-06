@@ -5,13 +5,13 @@
 
 ### Javascript : 
 
-* [ x ] Savoir gérer les erreurs avec les `promises` (https://javascript.info/promise-error-handling)
-* [ x ] Passer en revue la `promise API` (https://javascript.info/promise-api)
-* [ x ] Comprendre le fonctionnement de `async/await` (https://javascript.info/async-await)
+* [ X ] Savoir gérer les erreurs avec les `promises` (https://javascript.info/promise-error-handling)
+* [ X ] Passer en revue la `promise API` (https://javascript.info/promise-api)
+* [ X ] Comprendre le fonctionnement de `async/await` (https://javascript.info/async-await)
 
 ### SQL :
 
-* [ ] Comprendre la différence entre le `SQL` et le `NoSQL`
+* [ X ] Comprendre la différence entre le `SQL` et le `NoSQL`
 
 * [ ] Comprendre les types de données dans `PostgreSQL`
   * [ ] Les types numériques :

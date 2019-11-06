@@ -11,15 +11,15 @@
 
 ### DOM : 
 
-  * [ ] Approfondir les évènements basés sur le clavier (https://javascript.info/keyboard-events#summary)
-    * [ ] Comprendre la différence entre : 
-      * [ ] `event.key`
-      * [ ] `event.code`
-    * [ ] Comprendre les actions par défaut du clavier
+  * [ X ] Approfondir les évènements basés sur le clavier (https://javascript.info/keyboard-events#summary)
+    * [ x ] Comprendre la différence entre : 
+      * [ X ] `event.key`
+      * [ X ] `event.code`
+    * [ X ] Comprendre les actions par défaut du clavier
     * [ ] Faire l'exercice
 
-  * [ ] Approfondir la manipulation des formulaires dans le `DOM` (https://javascript.info/form-elements)
+  * [ X ] Approfondir la manipulation des formulaires dans le `DOM` (https://javascript.info/form-elements)
     * [ ] Faire l'exercice
   
-  * [ ] Comprendre le `Focus` et le `Blur` (https://javascript.info/focus-blur)
-    * [ ] Faire les exercices
+  * [ X ] Comprendre le `Focus` et le `Blur` (https://javascript.info/focus-blur)
+    * [ X ] Faire les exercices

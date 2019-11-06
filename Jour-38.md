@@ -15,7 +15,7 @@
   * [ X ] Comprendre ce qu'est paquet 
   * [ X ] Comprendre comment fonctionne le `package.json` / Mise à jour 
   * [ X ] Savoir ce qu'est le `Semantic Versionning` (SemVer)
-  * [X ] Comprendre la différence entre une installation locale vs globale, entre développement vs production
+  * [ X ] Comprendre la différence entre une installation locale vs globale, entre développement vs production
   * [  ] Découvrir les commandes utiles 
 
 * [ ] Faire les exercices `Timers` dans Node.js
